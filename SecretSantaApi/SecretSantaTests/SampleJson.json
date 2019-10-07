@@ -1,0 +1,20 @@
+[
+  {
+    "Id" : 1,
+    "Name" : "name",
+    "Email" : "hjdfhj@yahoo.com.au",
+    "Relationships": ["Name2"]
+  },
+ {
+   "Id" : 2,
+   "Name" : "name",
+    "Email" : "hjdfhj@yahoo.com.au",
+    "Relationships": ["Name1"]
+  },
+  {
+    "Id" : 3,
+    "Name" : "name",
+    "Email" : "hjdfhj@yahoo.com.au",
+    "Relationships": null
+  }
+]
